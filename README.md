@@ -7,6 +7,10 @@ Real-time 2-player fighting game on the DE1-SoC implemented in bare-metal C, wit
 
 ---
 
+**Authors:** [Apiwich Sumeksri](https://github.com/apiwichs) and [Shangzhe Tian](https://github.com/tsz-1) — ECE243, University of Toronto (Winter 2026). Co-designed as a team of two.
+
+---
+
 ## Demo
 
 <p align="center">
